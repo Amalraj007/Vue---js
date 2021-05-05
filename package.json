@@ -1,8 +1,8 @@
 {
-  "name": "login-jwtauthentication-vuejs-vuex",
+  "name": "simple login page",
   "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "kiran.karki <kiran.karki@student.fh-kiel.de>",
+  "author": "Amalraj",
   "license": "MIT",
   "private": true,
   "scripts": {
